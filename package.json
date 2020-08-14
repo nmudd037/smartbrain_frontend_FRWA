@@ -1,7 +1,6 @@
 {
   "name": "facerecognitionwebapp",
   "version": "0.1.0",
-  "homepage": "https://nmudd037.github.io/smartbrain_frontend_facerecognitionwebapp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
