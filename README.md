@@ -4,7 +4,7 @@ A full-stack web application using the PERN stack that lets user to submit an im
 Developed a simple API and server to handle the routes using the Node.js and Express using PostgreSQL as the database.
 
 
-Backend Code, **[click here](https://github.com/nmudd037/smartbrain_backend_server_FRWA)**\
+Backend Code, **[click here](https://github.com/nmudd037/smartbrain_backend_server_FRWA)**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
