@@ -1,4 +1,4 @@
-#Face Recognition Web App
+# Face Recognition Web App
 
 A full-stack web application using the PERN stack that lets user to submit an image through url to detect the human face in the image using the Clarifai API.
 Developed a simple API and server to handle the routes using the Node.js and Express using PostgreSQL as the database.
